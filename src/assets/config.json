@@ -1,0 +1,36 @@
+{
+    "theme": {
+      "primaryColor": "#3f51b5",
+      "secondaryColor": "#f50057"
+    },
+    "registrationForm": {
+      "steps": [
+        {
+          "title": "Step 1",
+          "fields": [
+            {
+              "label": "Name",
+              "type": "text",
+              "placeholder": "Enter your name"
+            },
+            {
+              "label": "Email",
+              "type": "email",
+              "placeholder": "Enter your email"
+            }
+          ]
+        },
+        {
+          "title": "Step 2",
+          "fields": [
+            {
+              "label": "Password",
+              "type": "password",
+              "placeholder": "Enter your password"
+            }
+          ]
+        }
+      ]
+    }
+  }
+  
